@@ -11,13 +11,13 @@
       src="https://reecebyron1.netlify.app/assets/img/portfolio/me.jpeg"
       alt="image not found"
   /></a>
-</p> -->
+</p> -->https://img.icons8.com/windows/344/vuejs.png
 
 <!-- <p align="left">
   <a href="https://twitter.com/ajayaadhav" target="blank"
     ><img
       src="https://img.shields.io/twitter/follow/ajayaadhav?logo=twitter&style=for-the-badge"
-      alt="ajayaadhav"
+      alt="twitter"
   /></a>
 </p> -->
 
@@ -92,7 +92,7 @@ fact **Game freak**
       </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img
-      src="data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZpZXdCb3g9IjAgMCAyMjYgMjI2Ij48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9Im5vbnplcm8iIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2UtZGFzaGFycmF5PSIiIHN0cm9rZS1kYXNob2Zmc2V0PSIwIiBmb250LWZhbWlseT0ibm9uZSIgZm9udC13ZWlnaHQ9Im5vbmUiIGZvbnQtc2l6ZT0ibm9uZSIgdGV4dC1hbmNob3I9Im5vbmUiIHN0eWxlPSJtaXgtYmxlbmQtbW9kZTogbm9ybWFsIj48cGF0aCBkPSJNMCwyMjZ2LTIyNmgyMjZ2MjI2eiIgZmlsbD0ibm9uZSI+PC9wYXRoPjxnPjxwYXRoIGQ9Ik0xMTIuOTM4NzksODAuMDQxNjdsLTI0LjczMjg3LC00Mi4zNzVoLTc0LjIwMzMzbDk4LjkzNjIxLDE2OS41bDk4LjkzNjIxLC0xNjkuNWgtNzQuMjAzMzN6IiBmaWxsPSIjMDAwMDAwIj48L3BhdGg+PHBhdGggZD0iTTEzNy42NzE2NywzNy42NjY2N2wtMjQuNzMyODgsNDIuMzc1bC0yNC43MzI4NywtNDIuMzc1aC0zNS43MjY4M2w2MC40NTk3MSwxMDMuNTgzMzNsNjAuNDU5NzEsLTEwMy41ODMzM3oiIGZpbGw9IiM0NTVhNjQiPjwvcGF0aD48L2c+PC9nPjwvc3ZnPg=="
+      src="https://img.icons8.com/windows/344/vuejs.png"
       alt="vue"
       width="40"
       height="40"
