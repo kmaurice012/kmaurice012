@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Byron Maurice VV</h1>
 <h3 align="center">A passionate Software Engineering student from India</h3>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://reecebyron1.netlify.app/assets/img/portfolio/me.jpeg" />
 </p>
-
-<p align="left">
+ -->
+<!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://reecebyron1.netlify.app/assets/img/portfolio/me.jpeg"
       alt="image not found"
   /></a>
-</p>
+</p> -->
 
 <p align="left">
   <a href="https://twitter.com/ajayaadhav" target="blank"
