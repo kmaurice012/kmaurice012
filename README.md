@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Byron Maurice VV</h1>
-<h3 align="center">A passionate Software Engineering student from India</h3>
+<h3 align="center">A passionate Software Engineering student from Kenya</h3>
 
 <!-- <p align="left">
   <img src="https://reecebyron1.netlify.app/assets/img/portfolio/me.jpeg" />
