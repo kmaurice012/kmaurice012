@@ -11,8 +11,7 @@
       src="https://reecebyron1.netlify.app/assets/img/portfolio/me.jpeg"
       alt="image not found"
   /></a>
-</p> -->https://img.icons8.com/windows/344/vuejs.png
-
+</p> -->
 <!-- <p align="left">
   <a href="https://twitter.com/ajayaadhav" target="blank"
     ><img
