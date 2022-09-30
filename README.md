@@ -21,10 +21,11 @@
 </p> -->
 
 - 🔭 I’m currently Studying [Software Engineering at IST
-](https://isteducation.com) - 🌱 I’m currently learning **programming and web
-development** - 👯 My Area of Interest's are **Ethical Hacking, Web development,
-Game development** - 👨‍💻 All of my projects are available at
-[https://kmaurice012.netlify.app/](https://kmaurice012.netlify.app/) - ⚡ Fun
+](https://isteducation.com) 
+- 🌱 I’m currently learning **programming and webdevelopment** 
+- 👯 My Area of Interest's are **Ethical Hacking, Web development,Game development** 
+- 👨‍💻 All of my projects are available at
+     [https://kmaurice012.netlify.app/](https://kmaurice012.netlify.app/) - ⚡ Fun
 fact **Game freak**
 
 <h3 align="left">Connect with me:</h3>
