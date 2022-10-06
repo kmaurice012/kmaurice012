@@ -80,6 +80,13 @@ fact **Game freak**
           alt="Javascript"
           width="40"
           height="40"
+        />\
+        <a href="https://aws.amazon.com" target="_https://img.icons8.com/ios/344/java-coffee-cup-logo--v1.pngblank" rel="noreferrer">
+        <img
+          src="https://img.icons8.com/ios/344/java-coffee-cup-logo--v1.png"
+          alt="Java"
+          width="40"
+          height="40"
         />
       </a>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
