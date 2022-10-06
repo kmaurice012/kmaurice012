@@ -33,32 +33,32 @@ fact **Game freak**
   <a href="https://twitter.com/reecebyron012" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="ajayaadhav"
+      src="https://img.icons8.com/sf-ultralight-filled/344/twitter.png"
+      alt="twitter"
       height="30"
       width="40"
   /></a>
   <a href="https://www.linkedin.com/in/king-maurice/" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="ajay-aadhav-251773170"
+      src="https://img.icons8.com/glyph-neue/344/linkedin.png"
+      alt="linkedin"
       height="30"
       width="40"
   /></a>
   <a href="https://fb.com/" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="ajayaadhav10"
+      src="https://img.icons8.com/ios-filled/344/facebook--v1.png"
+      alt="facebook"
       height="30"
       width="40"
   /></a>
   <a href="https://instagram.com/" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="ajayaadhav"
+      src="https://img.icons8.com/ios-filled/344/instagram-new--v1.png"
+      alt="instagram"
       height="30"
       width="40"
   /></a>
