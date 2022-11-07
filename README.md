@@ -264,6 +264,8 @@ fact **Game freak**
     />
   </a> -->
 </p>
+  
+  
   <p>
   &nbsp;<img
      align="left"
