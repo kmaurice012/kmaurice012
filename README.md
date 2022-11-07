@@ -264,21 +264,21 @@ fact **Game freak**
     />
   </a> -->
 </p>
-<div style="display:flex; gap:20px;">
-<p>
-  &nbsp;<img
-   
-    src="https://github-readme-stats.vercel.app/api?username=kmaurice012&show_icons=true&locale=en"
-    alt="ajayaadhav10"
-  />
-</p>
 <p>
   <img
-   
+     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=kmaurice012&show_icons=true&locale=en&layout=compact"
     alt="ajayaadhav10"
   />
 </p>
-</div>
+
+<p>
+  &nbsp;<img
+   align="center"
+    src="https://github-readme-stats.vercel.app/api?username=kmaurice012&show_icons=true&locale=en"
+    alt="ajayaadhav10"
+  />
+</p>
+
 
 
