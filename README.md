@@ -12,13 +12,7 @@
       alt="image not found"
   /></a>
 </p> -->
-<!-- <p align="left">
-  <a href="https://twitter.com/ajayaadhav" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/ajayaadhav?logo=twitter&style=for-the-badge"
-      alt="twitter"
-  /></a>
-</p> -->
+
 
 - 🔭 I’m currently Studying [Software Engineering at IST
 ](https://isteducation.com) 
