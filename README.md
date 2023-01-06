@@ -279,6 +279,7 @@ fact **Game freak**
     alt="ajayaadhav10"
   />
 </p>
+<a href="https://app.daily.dev/King012"><img src="https://api.daily.dev/devcards/7e5c47c844ca4d8a98066971410a5e04.png?r=4eq" width="400" alt="King Maurice's Dev Card"/></a>
 
 
 
