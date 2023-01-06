@@ -1,4 +1,24 @@
-<h1 align="center">Hi 👋, I'm Byron Maurice </h1>
+<div display= "flex">
+    </div>
+  <div>
+    <p>
+  &nbsp;<img
+     align="left"
+    src="https://github-readme-stats.vercel.app/api?username=kmaurice012&show_icons=true&locale=en"
+    alt="ajayaadhav10"
+  />
+</p>
+<p>
+  <img
+     align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=kmaurice012&show_icons=true&locale=en&layout=compact"
+    alt="ajayaadhav10"
+  />
+</p>
+<a href="https://app.daily.dev/King012"><img src="https://api.daily.dev/devcards/7e5c47c844ca4d8a98066971410a5e04.png?r=4eq" width="400" alt="King Maurice's Dev Card"/></a>
+  </div>
+<div>
+  <h1 align="center">Hi 👋, I'm Byron Maurice </h1>
 <h3 align="center">A passionate Software Engineering student from Kenya</h3>
 
 <!-- <p align="left">
@@ -264,24 +284,5 @@ fact **Game freak**
     />
   </a> -->
 </p>
-  
-  <p>
-  &nbsp;<img
-     align="left"
-    src="https://github-readme-stats.vercel.app/api?username=kmaurice012&show_icons=true&locale=en"
-    alt="ajayaadhav10"
-  />
-</p>
-<p>
-  <img
-     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=kmaurice012&show_icons=true&locale=en&layout=compact"
-    alt="ajayaadhav10"
-  />
-</p>
-<a href="https://app.daily.dev/King012"><img src="https://api.daily.dev/devcards/7e5c47c844ca4d8a98066971410a5e04.png?r=4eq" width="400" alt="King Maurice's Dev Card"/></a>
 
-
-
-
-
+</div>
