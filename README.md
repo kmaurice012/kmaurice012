@@ -12,10 +12,10 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="[https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png](https://avatars.githubusercontent.com/u/90697810?s=400&u=21ee3f068900e816ff792a8b1fc155caaa6c6cf7&v=4)" alt="Avatar photo of Byron Maurice.">
+      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png" alt="Avatar photo of Sir Byron Maurice">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Austinae;aka+William+Guerrand;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Inquisitive+by+nature;AI+enthusiast;Chess+lover;Confident+and+ambitious;Long-distance+athlete;Young+at+heart;Guitar+player;Thrill+seeker" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+BYRON MAURICE;aka+REECE+THE DON;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Inquisitive+by+nature;AI+enthusiast;Video Game+lover;Ambitious;Young+at+heart;Thrill+seeker" alt="Typing SVG" /></a>
   </div>
 </div>
 
@@ -30,19 +30,19 @@
 /**
  * Represents me.
  * @constructor
- * @param {string} city - Paris, France.
- * @param {string} languagues - English, French.
+ * @param {string} city - Nairobi, Kenya.
+ * @param {string} languages - English, Swahili.
  * @param {string} jobTitle - Full Stack Developer.
- * @param {string} specialization - Building full-fledged web applications.
- * @param {string} interests - AI, writing & problem-solving.
- * @param {string} hobbies - Climbing, reading, triathlons & playing music.
- * @param {string} education - BSc CompSci, Lancaster University.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
+ * @param {string} specialization - Building cool full-fledged web applications.
+ * @param {string} interests -Game Development, Cyber Sec, AI, writing & problem-solving.
+ * @param {string} hobbies - Gaming, coding, hiking & playing music.
+ * @param {string} education - Diploma in Software Development, Institute of Software Technologies.
+ * @param {string} approachable - Yes, don't hesitate to get in touch if you want to work together on fascinating projects.
  * @param {string} stength - Resolute.
  * @param {string} weakness - Shyness.
- * @param {Date} birthday - 14th of December 2000.
+ * @param {Date} birthday - 13th of April 2002.
  * @throws {Punch} To any and all bugs.
- * @returns {Object} Austinae.
+ * @returns {Object} REEC3.
  */
 ```
 
