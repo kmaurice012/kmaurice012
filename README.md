@@ -12,7 +12,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png" alt="Avatar photo of Sir Byron Maurice">
+      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://avatars.githubusercontent.com/u/90697810?s=400&u=21ee3f068900e816ff792a8b1fc155caaa6c6cf7&v=4" alt="Avatar photo of Sir Byron Maurice">
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+BYRON MAURICE;aka+REECE+THE DON;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Inquisitive+by+nature;AI+enthusiast;Video Game+lover;Ambitious;Young+at+heart;Thrill+seeker" alt="Typing SVG" /></a>
