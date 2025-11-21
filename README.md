@@ -1,208 +1,294 @@
-<p align="right"> <img src="https://gpvc.arturio.dev/austinae" alt="Profile count" /> </p>
+<div align="center">
+
+# 👋 Hey, I'm Byron Maurice
+
+### Full-Stack Software Engineer | Building Scalable Solutions for Major Brands
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=5%2B+Years+of+Full-Stack+Development;Specialized+in+React+%26+Next.js;Built+Systems+for+1000%2B+Users;Working+with+Diageo%2C+Coca-Cola%2C+%26+More;Enterprise+%7C+SaaS+%7C+Gamification" alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-byronmaurice.vercel.app-64ffda?style=for-the-badge&logo=vercel&logoColor=white)](https://byronmaurice.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-king--maurice-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/king-maurice/)
+[![Email](https://img.shields.io/badge/Email-kingmaurice012%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kingmaurice012@gmail.com)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```typescript
+const byron = {
+  location: "Nairobi, Kenya 🇰🇪",
+  title: "Full-Stack Software Engineer",
+  experience: "5+ years",
+
+  currentFocus: ["Next.js", "React", "TypeScript", "Node.js"],
+  specialization: "Building scalable web applications that solve real-world problems",
+
+  stats: {
+    activeUsers: "1000+",
+    dailyTransactions: "500+",
+    projectsDelivered: "11+",
+    majorBrands: ["Diageo", "Coca-Cola", "Old Mutual", "Afrigas"],
+  },
+
+  interests: ["Enterprise Systems", "Gamification", "Performance Optimization"],
+  languages: ["English", "Swahili"],
+
+  lookingFor: {
+    roles: ["Senior Developer", "Full-Stack Engineer", "Technical Lead"],
+    opportunities: ["Remote", "Hybrid", "Contract", "Full-time"],
+  },
+};
+```
+
+---
+
+## 💼 Professional Highlights
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏆 Major Achievements
+- 🎯 **1000+ Active Users** - Field Sales Platform
+- 💳 **500+ Daily Transactions** - Enterprise POS System
+- 🎮 **10,000+ Engagements** - Brand Gamification
+- ⚡ **99.9% Uptime** - Critical Business Systems
+- 📉 **40% Time Reduction** - Process Automation
+
+</td>
+<td width="50%">
+
+### 🤝 Client Portfolio
+- **Diageo** - Interactive Memory Game
+- **Coca-Cola** - Kaching Ching Campaign
+- **Old Mutual** - Spin the Wheel Game
+- **Afrigas** - Promotional Game Experience
+- **Jambojet** - Quiz Game Platform
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Core
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### 🚀 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## 📊 Featured Projects
+
+### 🏢 Enterprise POS System - [Hiduka](https://www.hiduka.co.ke)
+> Full Kenya Revenue Authority (KRA) integration for tax-compliant retail operations
+
+**Tech:** Next.js · Node.js · MongoDB · KRA API
+**Impact:** 500+ daily transactions | 99.9% uptime | Zero compliance violations
+
+---
+
+### 📱 Field Sales Platform
+> Real-time field sales management with offline capabilities
+
+**Tech:** React · Node.js · MongoDB · PWA
+**Impact:** 1000+ active agents | 40% time reduction | Real-time sync
+
+---
+
+### 🎮 Brand Gamification Suite
+> Interactive promotional games for major brands
+
+**Tech:** React · JavaScript · CSS3 Animations
+**Clients:** Diageo · Coca-Cola · Old Mutual · Afrigas · Jambojet
+**Impact:** 10,000+ user engagements across campaigns
+
+---
+
+### 💼 Community Finance Platform - Chama Pro
+> SaaS platform for community savings groups
+
+**Tech:** Next.js · PostgreSQL · Supabase
+**Features:** Multi-user management · Transaction tracking · Reporting
+
+---
+
+### 📝 Technical Writing - Webiny CMS
+> Comprehensive documentation and tutorials
+
+**Platform:** [Webiny Blog](https://www.webiny.com/blog/)
+**Focus:** Developer onboarding · JAMstack architecture · Best practices
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmaurice012&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9"/>
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
-
-<details>
-<summary>Open profile</summary>
-
-[comment]: <> (View Counter)
-<br>
-<div>
-  <div align=center>
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://avatars.githubusercontent.com/u/90697810?s=400&u=21ee3f068900e816ff792a8b1fc155caaa6c6cf7&v=4" alt="Avatar photo of Sir Byron Maurice">
-  </div>
-  <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+BYRON MAURICE;aka+REECE+THE DON;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Inquisitive+by+nature;AI+enthusiast;Video Game+lover;Ambitious;Young+at+heart;Thrill+seeker" alt="Typing SVG" /></a>
-  </div>
-</div>
-
-<details>
-<summary>About me</summary>
-
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
-
-<div align="left">
-
-```js
-/**
- * Represents me.
- * @constructor
- * @param {string} city - Nairobi, Kenya.
- * @param {string} languages - English, Swahili.
- * @param {string} jobTitle - Full Stack Developer.
- * @param {string} specialization - Building cool full-fledged web applications.
- * @param {string} interests -Game Development, Cyber Sec, AI, writing & problem-solving.
- * @param {string} hobbies - Gaming, coding, hiking & playing music.
- * @param {string} education - Diploma in Software Development, Institute of Software Technologies.
- * @param {string} approachable - Yes, don't hesitate to get in touch if you want to work together on fascinating projects.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
- * @param {Date} birthday - 13th of April 2002.
- * @throws {Punch} To any and all bugs.
- * @returns {Object} REEC3.
- */
-```
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmaurice012&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9"/>
 
 </div>
 
-</details>
+<div align="center">
 
-<details>
-<summary>Tools</summary>
-<div>
-  <p style="display: inline-block;" align="center">
-    <kbd>
-      <kbd>Programming Languages</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-<!--       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  -->
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-    </kbd>
-    <kbd>
-      <kbd>Back-end</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-    </kbd>
-     <kbd>
-      <kbd>Mobile</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    </kbd>
-    <kbd>
-      <kbd>Front-end</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
-       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-    </kbd>
-    <kbd>
-      <kbd>Database</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" /> 
-    </kbd>
-    <br>
-    <br>
-<!--     <kbd>
-      <kbd>Data Science & AI</kbd>
-      <br>
-      <br>
-      <img title="matlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-    </kbd> -->
-    <kbd>
-      <kbd>System, Networking & Deployment</kbd>
-      <br>
-      <br>
-<!--       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" /> -->
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-    </kbd>
-    <kbd>
-      <kbd>Terminal Scripts</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-    </kbd>
-    <kbd>
-      <kbd>Tools</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-<!--       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" /> -->
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  </kbd>
-     <kbd>
-      <kbd>Game Development</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-    </kbd>
-  </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kmaurice012&theme=tokyonight&hide_border=true&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=64FFDA&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8892B0)](https://git.io/streak-stats)
+
 </div>
-</details>
 
-<details>
-  <summary>Quote</summary>
-  <br>
-  One of my favourite quotes
-  <blockquote>
-    “Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.”
-    <br><strong>Chris Gardner interpreted by Will Smith in the movie "Pursuit of Happyness" (2006)</strong>
-  </blockquote>
-</details>
+---
 
-<details>
-  <summary>Free DOSE hit</summary>
-  <br>
-  <small><i>DOSE (dopamine, oxytocin, serotonin & endorphin), refresh page if dose was ineffective.</i></small>
-  <br>
-  <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
-</details>
+## 🎯 What I'm Currently Working On
 
-<details>
-<summary>What can I do for you?</summary>
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
+- 🔨 Building scalable enterprise applications
+- 📚 Writing technical blog posts about full-stack development
+- 🎓 Exploring advanced performance optimization techniques
+- 🌱 Contributing to open-source projects
+- 💡 Mentoring junior developers
 
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
+---
 
-## Let's Work on Your Project Together!
+## 💡 Technical Writing
 
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:kingmaurice012@gmail.com">contact me by email</a>, I won't bite, I promise.
+I share insights on full-stack development, scalable architecture, and lessons learned from building real-world applications:
 
-  </td>
-  <td width="50%" valign="top">
+- **Building Scalable Field Sales Platforms** - Architecture for 1000+ concurrent users
+- **KRA Integration in POS Systems** - Real-time tax compliance for Kenyan businesses
+- **Gamification Strategies** - Creating engaging experiences for major brands
+- **Next.js Performance Optimization** - Practical techniques for production apps
 
-## It's not perfect, isn't it?
+*Articles coming soon on [my portfolio](https://byronmaurice.vercel.app)*
 
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
+---
 
-<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-<br><strong>– Elon Musk</strong></blockquote>
+## 🏆 Certifications & Skills
 
-  </td>
-  </tr>
+<table>
+<tr>
+<td width="33%" align="center">
+
+### Frontend Mastery
+React · Next.js · TypeScript
+Vue.js · Tailwind CSS
+Responsive Design
+**95% Proficiency**
+
+</td>
+<td width="33%" align="center">
+
+### Backend Excellence
+Node.js · Express · Laravel
+REST APIs · Authentication
+Database Design
+**90% Proficiency**
+
+</td>
+<td width="33%" align="center">
+
+### DevOps & Tools
+Git · Docker · CI/CD
+AWS · Vercel · Monitoring
+Performance Tuning
+**85% Proficiency**
+
+</td>
+</tr>
 </table>
-</details>
 
-</details>
+---
 
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+## 🤝 Let's Connect!
+
+I'm always open to discussing:
+- 💼 **Freelance projects** - Building custom web applications
+- 🤝 **Full-time opportunities** - Senior developer or technical lead roles
+- 📝 **Technical writing** - Collaborating on developer content
+- 🎓 **Mentorship** - Helping developers grow their skills
+- ☕ **Networking** - Connecting with fellow developers and tech enthusiasts
+
+### 📫 How to Reach Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-64ffda?style=for-the-badge&logo=vercel&logoColor=white)](https://byronmaurice.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/king-maurice/)
+[![Email](https://img.shields.io/badge/Email-kingmaurice012%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kingmaurice012@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254796058979)
 
 </div>
 
-<div align=center>
-  <a href="https://www.linkedin.com/in/king-maurice/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-  <a href="https://lichess.org/@/kmaurice012"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lichess&color=000000&logo=Lichess&logoColor=FFFFFF&label=" alt="Lichess" /></a>
-  <a href="mailto:kingmaurice012@gmail.com?subject=Hi%20Maurice%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-  <a href="https://reecebyron.netlify.app/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=My+website&color=8e7e57&logo=data:image/png;base64,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&label=" alt="My website" /></a>  
- 
+---
+
+## 📝 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 💭 Developer Quote
+
+<div align="center">
+
+> *"I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer."*
+>
+> **— Chris Gardner (Pursuit of Happyness)**
+
 </div>
 
+---
+
+<div align="center">
+
+### 🌟 Fun Facts About Me
+
+🎮 Avid gamer when I'm not coding
+🏔️ Love hiking and outdoor adventures
+🎵 Play music in my free time
+♟️ Chess enthusiast - [Challenge me on Lichess](https://lichess.org/@/kmaurice012)
+📚 Always learning something new
+☕ Coffee-driven development
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=kmaurice012&color=64ffda&style=for-the-badge&label=Profile+Views)
+
+### ⭐ Star some repositories if you find them useful!
+
+**Made with ❤️ by Byron Maurice**
+
+</div>
