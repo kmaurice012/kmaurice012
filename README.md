@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=5%2B+Years+of+Full-Stack+Development;Specialized+in+React+%26+Next.js;Built+Systems+for+1000%2B+Users;Working+with+Diageo%2C+Coca-Cola%2C+%26+More;Enterprise+%7C+SaaS+%7C+Gamification" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-byronmaurice.vercel.app-64ffda?style=for-the-badge&logo=vercel&logoColor=white)](https://byronmaurice.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-byronmaurice.vercel.app-64ffda?style=for-the-badge&logo=vercel&logoColor=white)](https://byronmaurice.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-king--maurice-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/king-maurice/)
 [![Email](https://img.shields.io/badge/Email-kingmaurice012%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kingmaurice012@gmail.com)
 
